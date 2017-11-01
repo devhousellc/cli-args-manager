@@ -1,0 +1,22 @@
+{
+  "name": "cli-args-manager",
+  "version": "1.0.0",
+  "description": "Helps with cli input string parsing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devhousellc/cli-args-manager.git"
+  },
+  "author": "Igor Boky",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/devhousellc/cli-args-manager/issues"
+  },
+  "homepage": "https://github.com/devhousellc/cli-args-manager#readme",
+  "devDependencies": {
+    "eslint": "^4.10.0"
+  }
+}
